@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Comparador de Arquivos CSV - Arquivo Principal
-Autor: Sistema de Comparação
-Data: 2024
-"""
 
 import os
 import sys
